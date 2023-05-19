@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\sayısal loto\bin\Debug\sayısal loto.exe.config
+C:\Users\eda öncel\Desktop\sayısal loto\bin\Debug\sayısal loto.exe
+C:\Users\eda öncel\Desktop\sayısal loto\bin\Debug\sayısal loto.pdb
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal_loto.Form1.resources
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal_loto.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.exe
+C:\Users\eda öncel\Desktop\sayısal loto\obj\Debug\sayısal loto.pdb
